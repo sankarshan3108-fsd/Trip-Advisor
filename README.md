@@ -9,7 +9,7 @@ Replicate the official **TripAdvisor website** layout using only **HTML and CSS*
 
 ## 🌐 Live Demo
 🔗 **View Live Website:**  
-https://your-live-demo-link.com  
+ https://sankarshan3108-fsd.github.io/Trip-Advisor/  
 
 ## 📸 Screenshots
 <img width="1900" height="966" alt="image" src="https://github.com/user-attachments/assets/cf44068c-7e3b-46e8-86c5-fdae9eb2b2c3" />
